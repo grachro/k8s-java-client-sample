@@ -1,6 +1,18 @@
 Kubernetesの~/.kube/configのcontextからnamespaecとサービスの一覧を出力する簡単なプログラムです。
 
+## build
 
+```
+mvn clean install
+
+```
+
+
+## run
+```
+cd target
+java -jar k8s-java-client-sample-1.0-SNAPSHOT.jar
+```
 
 ## 実行結果例
 ```
