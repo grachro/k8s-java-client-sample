@@ -1,4 +1,4 @@
-package com.grachro;
+package com.grachro.k8sjavaclientsample;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

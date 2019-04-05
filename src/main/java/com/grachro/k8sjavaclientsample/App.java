@@ -1,4 +1,4 @@
-package com.grachro;
+package com.grachro.k8sjavaclientsample;
 
 import io.kubernetes.client.ApiClient;
 import io.kubernetes.client.ApiException;
